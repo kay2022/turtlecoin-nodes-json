@@ -1,5 +1,19 @@
 {
   "nodes": [
+      {
+      "name": "A German TRTLnode",
+      "url": "aka01.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+      },
+      {
+      "name": "A German TRTLnode",
+      "url": "aka01.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+     },
      {
       "name": "A French TRTLnode",
       "url": "turtlecoin.revz.fr",
